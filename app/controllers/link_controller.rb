@@ -1,0 +1,4 @@
+class LinkController < ApplicationController
+
+	
+end

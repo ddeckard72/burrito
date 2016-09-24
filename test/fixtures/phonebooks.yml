@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phonenumber: 1
+  areacode: 1
+  exchange: 1
+  subscriber: 1
+  type: 
+  category: MyString
+
+two:
+  phonenumber: 1
+  areacode: 1
+  exchange: 1
+  subscriber: 1
+  type: 
+  category: MyString
