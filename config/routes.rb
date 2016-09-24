@@ -9,4 +9,7 @@ post "/name", to: "names#new"
 #address
 post "/address", to: "addresses#new"
 
+#scrap
+post "/scrape", to: "scrap#target"
+
 end
