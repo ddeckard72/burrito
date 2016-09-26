@@ -4,10 +4,10 @@
  class Record
  	def initialize
  		#data members
- 		firstname = ""
- 		middlename = ""
- 		lastname = ""
- 		phonenumber = ""
+ 		@firstname = ""
+ 		@middlename = ""
+ 		@lastname = ""
+ 		@phonenumber = ""
  	end
 
  	def commit
