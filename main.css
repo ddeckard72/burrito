@@ -2,10 +2,7 @@ body {
     background-color: lightblue;
 } 
 
-.sloth {
-	float: right;
-}
-.sloth img {
-	width: 300px;
+.search {
 
+	padding-left: 40px;
 }
